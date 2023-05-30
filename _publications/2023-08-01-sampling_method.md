@@ -3,7 +3,7 @@ title: "Accelerated First-principles Prediction of Thermal Conductivity and Radi
 collection: publications
 permalink: /publication/2023-08-01-sampling_method
 excerpt: 'Reduced the computational cost of predicting  thermal and MIR-optical properties by up to 99\% with relative errors less than 10\% by using the maximum likelihood approximation to estimate phonon scattering rate.'
-date: 'In review'
+date: 
 venue: 
 paperurl: 
 citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
