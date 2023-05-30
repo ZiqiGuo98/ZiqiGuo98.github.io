@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziqi Guo, a Ph.D. student at Purdue university. My research interest lies in machine learning-assisted atomistic simulations for energy transport. 
+Hi, I am Ziqi Guo, a Ph.D. student at Purdue university, advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/).
 
-I am currently using multiscale, multiphysics simulation and AI approaches to investigate the thermal and optical properties of materials, which is useful in many applications including thermal management and radiative cooling.
+Prior to Purdue, I received my Bachelor’s degree in Mechanical Engineering from Huazhong University of Science & Technology in 2021. 
+
+My research interest lies in the intersection of atomic simulation, energy transport and machine learning. I am currently using multiscale, multiphysics simulation and AI approaches to investigate the thermal and optical properties of materials, which is useful in many applications including thermal management and radiative cooling.
 
 Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf). 
 
 Publications
 ======
+(* indicates equal contribution)
+
 * **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Accelerated First-principles Prediction of Thermal Conductivity and Radiative Properties through Maximum Likelihood Estimation of Phonon Scattering Rates. *In Review*. []()
 
 * **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. []()
