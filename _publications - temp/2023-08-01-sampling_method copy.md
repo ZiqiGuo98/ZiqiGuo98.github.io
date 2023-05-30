@@ -8,9 +8,9 @@ venue: 'In review'
 paperurl: 
 # citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
-<!-- * Reduced the computational cost of predicting  thermal and MIR-optical properties by up to 99% with relative errors less than 10% by using the maximum likelihood approximation to estimate phonon scattering rate. -->
+* Reduced the computational cost of predicting  thermal and MIR-optical properties by up to 99% with relative errors less than 10% by using the maximum likelihood approximation to estimate phonon scattering rate.
 
-<!-- * Integrated the accelerated phonon scattering calculation as an option of the open source code [FourPhonon](https://github.com/FourPhonon/FourPhonon) -->
+* Integrated the accelerated phonon scattering calculation as an option of the open source code [FourPhonon](https://github.com/FourPhonon/FourPhonon)
 
 <!-- [Download paper here]() -->
 
