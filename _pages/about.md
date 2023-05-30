@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziqi Guo, a Ph.D. student at Purdue university, advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/).
+Hi, I am Ziqi Guo, a Ph.D. student in Mechanical Engineering at Purdue university, advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/).
 
 Prior to Purdue, I received my Bachelor’s degree in Mechanical Engineering from Huazhong University of Science & Technology in 2021. 
 
