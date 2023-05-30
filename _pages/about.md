@@ -25,7 +25,7 @@ Publications
 
 * Andrea Felicelli, Ioanna Katsamba, Fernando Barrios, Yun Zhang, **Ziqi Guo**, Joseph Peoples, George Chiu, and Xiulin Ruan, Thin layer lightweight and ultrawhite hexagonal boron nitride nanoporous paints for daytime radiative cooling, *Cell Reports Physical Science, Oct. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2666386422003526).
 
-* Sijie Li*, Ziqi Guo*, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
+* Sijie Li\*, **Ziqi Guo\***, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
 
 * Sorting System Based on RFID Positioning Technology. 2019SR1151524. *Software Copyright filed Nov. 2019.* 
 
