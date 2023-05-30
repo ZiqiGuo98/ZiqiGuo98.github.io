@@ -3,6 +3,9 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
+  - title: "Open Source Code"
+    url: /open_source_code/
+
   # - title: "Talks"
   #   url: /talks/    
 
