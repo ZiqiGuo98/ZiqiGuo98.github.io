@@ -1,7 +1,7 @@
 ---
 title: "Accelerated First-principles Prediction of Thermal Conductivity and Radiative Properties through Maximum Likelihood Estimation of Phonon Scattering Rates"
 collection: publications
-permalink: /publication/2023-08-01-sampling_method
+# permalink: /publication/2023-08-01-sampling_method
 excerpt: '**Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan'
 # date: 
 venue: 'In review'
