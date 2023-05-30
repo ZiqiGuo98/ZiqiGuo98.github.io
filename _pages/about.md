@@ -16,14 +16,14 @@ Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf).
 
 Publications
 ======
-* Ziqi Guo, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Accelerated First-principles Prediction of Thermal Conductivity and Radiative Properties through Maximum Likelihood Estimation of Phonon Scattering Rates. *In Review*. [](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
+* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Accelerated First-principles Prediction of Thermal Conductivity and Radiative Properties through Maximum Likelihood Estimation of Phonon Scattering Rates. *In Review*. [](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
 
-* Ziqi Guo, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
+* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
 
 
-* Song He, Zhengyuan Ma, Weizhong Deng, ZiKang Zhang, Ziqi Guo, Wei Liu, Zhichun Liu. Novel flat plate loop heat pipe with dual evaporators for energy-efficient systems of cooling multiple heat sources. *Energy Reports, Nov. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2352484722010940)
+* Song He, Zhengyuan Ma, Weizhong Deng, ZiKang Zhang, **Ziqi Guo**, Wei Liu, Zhichun Liu. Novel flat plate loop heat pipe with dual evaporators for energy-efficient systems of cooling multiple heat sources. *Energy Reports, Nov. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2352484722010940)
 
-* Andrea Felicelli, Ioanna Katsamba, Fernando Barrios, Yun Zhang, Ziqi Guo, Joseph Peoples, George Chiu, and Xiulin Ruan, Thin layer lightweight and ultrawhite hexagonal boron nitride nanoporous paints for daytime radiative cooling, *Cell Reports Physical Science, Oct. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2666386422003526).
+* Andrea Felicelli, Ioanna Katsamba, Fernando Barrios, Yun Zhang, **Ziqi Guo**, Joseph Peoples, George Chiu, and Xiulin Ruan, Thin layer lightweight and ultrawhite hexagonal boron nitride nanoporous paints for daytime radiative cooling, *Cell Reports Physical Science, Oct. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2666386422003526).
 
 * Sijie Li*, Ziqi Guo*, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
 
