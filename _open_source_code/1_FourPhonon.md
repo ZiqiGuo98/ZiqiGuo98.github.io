@@ -3,7 +3,7 @@ title: "FourPhonon"
 collection: open_source_code
 permalink: /open_source_code/1_FourPhonon
 excerpt: 'FourPhonon: An extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity'
-date: ''
+# date: ''
 venue: 
 paperurl: 'https://github.com/FourPhonon/FourPhonon'
 citation: 
