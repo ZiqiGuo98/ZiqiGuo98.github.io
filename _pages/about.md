@@ -22,7 +22,7 @@ Publications
 
 * **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Accelerated First-principles Prediction of Thermal Conductivity and Radiative Properties through Maximum Likelihood Estimation of Phonon Scattering Rates. *In Review*. []()
 
-* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. []()
+* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-023-01020-9)
 
 
 * Song He, Zhengyuan Ma, Weizhong Deng, ZiKang Zhang, **Ziqi Guo**, Wei Liu, Zhichun Liu. Novel flat plate loop heat pipe with dual evaporators for energy-efficient systems of cooling multiple heat sources. *Energy Reports, Nov. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2352484722010940)
