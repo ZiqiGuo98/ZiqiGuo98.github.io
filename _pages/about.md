@@ -14,7 +14,7 @@ Prior to Purdue, I received my Bachelor’s degree in Mechanical Engineering fro
 
 My research interest lies in the intersection of atomic simulation, energy transport and machine learning. I am currently using multiscale, multiphysics simulation and AI approaches to investigate the thermal and optical properties of materials, which is useful in many applications including thermal management and radiative cooling.
 
-Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf). 
+<!-- Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf).  -->
 
 Publications
 ======
