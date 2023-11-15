@@ -12,7 +12,13 @@ Hi, I am Ziqi Guo, a Ph.D. student in Mechanical Engineering at Purdue universit
 
 Prior to Purdue, I received my Bachelor’s degree in Mechanical Engineering from Huazhong University of Science & Technology in 2021. 
 
-My research interest lies in the intersection of atomic simulation, energy transport and machine learning. I am currently using multiscale, multiphysics simulation and AI approaches to investigate the thermal and optical properties of materials, which is useful in many applications including thermal management and radiative cooling.
+My research interest lies at the intersection of physics simulation, energy transport and machine learning. I am deeply interested in AI for science study by designing powerful data-driven models to accelerate physical simulations and explore innovative design solutions. By applying AI techniques to a diverse range of scientific domains ranging from thermal and nanophotonic simulations to atomic-scale modeling, I aim to unlock new insights and accelerate scientific discovery.
+
+
+ <!-- By combining AI with various physical simulations like finite element, Monte Carlo, and first-principles methods, I aim to unlock new insights and accelerate scientific discovery. -->
+
+
+<!-- I am currently using multiscale, multiphysics simulation and AI approaches to investigate the thermal and optical properties of materials, which is useful in many applications including thermal management and radiative cooling. -->
 
 <!-- Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf).  -->
 
@@ -28,9 +34,9 @@ Publications
 
 * **Ziqi Guo**, Sijie Li, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
 
-* Daniel Carne, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiulin Ruan. FOS: A fully integrated open-source program for Fast Optical Spectrum calculations for nanoparticle media. Under Review.
+* Daniel Carne, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiulin Ruan. FOS: A fully integrated open-source program for Fast Optical Spectrum calculations for nanoparticle media. *In Review*. []()
 
-* Fei Qin, Yuxuan Zhang, **Ziqi Guo**, Taejoon Park, Chung Soo Kim, Jeongmin Park, Xingyu Fu, Kwangsoo No, Kejie Zhao, Han Wook Song, Xiulin Ruan, and Sunghwan Lee. CMOS-compatible high performance SiO2-based memristors for neuromorphic computing: Understanding the switching mechanisms through theoretical and electrochemical aspects. Under Review.
+* Fei Qin, Yuxuan Zhang, **Ziqi Guo**, Taejoon Park, Chung Soo Kim, Jeongmin Park, Xingyu Fu, Kwangsoo No, Kejie Zhao, Han Wook Song, Xiulin Ruan, and Sunghwan Lee. CMOS-compatible high performance SiO2-based memristors for neuromorphic computing: Understanding the switching mechanisms through theoretical and electrochemical aspects.*In Review*. []()
 
 * Andrea Felicelli, Ioanna Katsamba, Fernando Barrios, Yun Zhang, **Ziqi Guo**, Joseph Peoples, George Chiu, and Xiulin Ruan, Thin layer lightweight and ultrawhite hexagonal boron nitride nanoporous paints for daytime radiative cooling, *Cell Reports Physical Science, Oct. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2666386422003526).
 
