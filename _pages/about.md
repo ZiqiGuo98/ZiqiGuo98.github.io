@@ -28,7 +28,7 @@ Publications
 
 * **Ziqi Guo**, Zherui Han, Abdulaziz Alkandari, Krutarth Khot and Xiulin Ruan. First-principles prediction of thermal conductivity of bulk hexagonal boron nitride. *In Review*. []()
 
-* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Accelerated First-principles Prediction of Thermal Conductivity and Radiative Properties through Maximum Likelihood Estimation of Phonon Scattering Rates. *In Review*. []()
+* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Sampling-accelerated first-principles prediction of phonon scattering rates for converged thermal conductivity and radiative properties (2023). Preprint at [Link](https://doi.org/10.48550/arXiv.2311.12935).
 
 * **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-023-01020-9)
 
@@ -36,7 +36,7 @@ Publications
 
 * Daniel Carne, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiulin Ruan. FOS: A fully integrated open-source program for Fast Optical Spectrum calculations for nanoparticle media. *In Review*. []()
 
-* Fei Qin, Yuxuan Zhang, **Ziqi Guo**, Taejoon Park, Chung Soo Kim, Jeongmin Park, Xingyu Fu, Kwangsoo No, Kejie Zhao, Han Wook Song, Xiulin Ruan, and Sunghwan Lee. CMOS-compatible high performance SiO2-based memristors for neuromorphic computing: Understanding the switching mechanisms through theoretical and electrochemical aspects.*In Review*. []()
+* Fei Qin, Yuxuan Zhang, **Ziqi Guo**, Taejoon Park, Chung Soo Kim, Jeongmin Park, Xingyu Fu, Kwangsoo No, Kejie Zhao, Han Wook Song, Xiulin Ruan, and Sunghwan Lee. CMOS-compatible high performance SiO2-based memristors for neuromorphic computing: Understanding the switching mechanisms through theoretical and electrochemical aspects. *In Review*. []()
 
 * Andrea Felicelli, Ioanna Katsamba, Fernando Barrios, Yun Zhang, **Ziqi Guo**, Joseph Peoples, George Chiu, and Xiulin Ruan, Thin layer lightweight and ultrawhite hexagonal boron nitride nanoporous paints for daytime radiative cooling, *Cell Reports Physical Science, Oct. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2666386422003526).
 
