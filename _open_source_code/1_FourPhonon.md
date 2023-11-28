@@ -12,8 +12,6 @@ FourPhonon: An extension module to ShengBTE for computing four-phonon scattering
 
 An sampling-accelerated phonon scattering calculation is integrated as an option to the FourPhonon code. It accelerates the first-principles prediction of thermal conductivity and radiative properties by over 10<sup>4</sup> times.
 
-The updated version of FourPhonon will be publish soon. 
-
 [Access the open source code here](https://github.com/FourPhonon/FourPhonon)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
