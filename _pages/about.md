@@ -24,7 +24,7 @@ My research interest lies at the intersection of physics simulation, energy tran
 
 Publications
 ======
-(* indicates equal contribution)
+<!-- (* indicates equal contribution) -->
 
 * **Ziqi Guo**, Zherui Han, Abdulaziz Alkandari, Krutarth Khot and Xiulin Ruan. First-principles prediction of thermal conductivity of bulk hexagonal boron nitride. *In Review*. []()
 
