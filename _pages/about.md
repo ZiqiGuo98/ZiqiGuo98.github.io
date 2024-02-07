@@ -28,9 +28,9 @@ Publications
 
 * **Ziqi Guo**, Zherui Han, Abdulaziz Alkandari, Krutarth Khot and Xiulin Ruan. First-principles prediction of thermal conductivity of bulk hexagonal boron nitride. *In Review*. []()
 
-* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Sampling-accelerated first-principles prediction of phonon scattering rates for converged thermal conductivity and radiative properties (2023). Preprint at [Link](https://doi.org/10.48550/arXiv.2311.12935).
+* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Sampling-accelerated first-principles prediction of phonon scattering rates for converged thermal conductivity and radiative properties (2023). *npj Computational Materials, Feb, 2024*. [Link](https://www.nature.com/articles/s41524-023-01020-9)
 
-* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-023-01020-9)
+* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-024-01215-8)
 
 * **Ziqi Guo**, Sijie Li, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
 
