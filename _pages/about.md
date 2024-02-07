@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziqi Guo, a Ph.D. candidate in Mechanical Engineering at Purdue university, advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/).
+Hi, I am Ziqi Guo, a Ph.D. candidate in Mechanical Engineering at Purdue university, co-advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/) and Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
 
 Prior to Purdue, I received my Bachelor’s degree in Mechanical Engineering from Huazhong University of Science & Technology in 2021. 
 
-My research interest lies at the intersection of physics simulation, energy transport and machine learning. I am deeply interested in AI for science study by designing powerful data-driven models to accelerate physical simulations and explore innovative design solutions. By applying AI techniques to a diverse range of scientific domains ranging from thermal and nanophotonic simulations to atomic-scale modeling, I aim to unlock new insights and accelerate scientific discovery.
+My research interest lies at the intersection of physics simulation, energy transport and machine learning. I am deeply interested in AI for science study by designing powerful data-driven models to accelerate physical simulations and explore inverse design solutions. By applying AI techniques to a diverse range of scientific domains ranging from thermal and nanophotonic simulations to atomic-scale modeling, I aim to unlock new insights and accelerate scientific discovery.
 
 
  <!-- By combining AI with various physical simulations like finite element, Monte Carlo, and first-principles methods, I aim to unlock new insights and accelerate scientific discovery. -->
