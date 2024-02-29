@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign reversed_miscs = site.miscs | reversed %}
 
-{% for post in site.miscs %}
+{% for post in reversed_miscs %}
   {% include archive-single.html %}
 {% endfor %}
 
