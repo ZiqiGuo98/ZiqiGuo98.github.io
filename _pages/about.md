@@ -31,7 +31,7 @@ Publications
 
 * **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-024-01215-8)
 
-* **Ziqi Guo**, Sijie Li, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
+* Sijie Li*, **Ziqi Guo\***, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z). 
 
 * Daniel Carne, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiulin Ruan. FOS: A fully integrated open-source program for Fast Optical Spectrum calculations for nanoparticle media. *In Review*. []()
 
