@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign reversed_miscs = site.miscs | reversed %}
+{% assign ordered_miscs = site.miscs | sort: 'order' %}
 
-{% for post in reversed_miscs %}
+{% for post in ordered_miscs %}
   {% include archive-single.html %}
 {% endfor %}
-
