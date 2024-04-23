@@ -30,9 +30,9 @@ Publications
 
 * Fei Qin, Yuxuan Zhang, **Ziqi Guo**, Taejoon Park, Chung Soo Kim, Jeongmin Park, Xingyu Fu, Kwangsoo No, Kejie Zhao, Han Wook Song, Xiulin Ruan, and Sunghwan Lee. CMOS-compatible high performance SiO2-based memristors for neuromorphic computing: Understanding the switching mechanisms through theoretical and electrochemical aspects. *Materials Advances, Mar, 2024*. [Link](https://pubs.rsc.org/en/content/articlehtml/2024/ma/d3ma01142a)
 
-* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Sampling-accelerated first-principles prediction of phonon scattering rates for converged thermal conductivity and radiative properties (2023). *npj Computational Materials, Feb, 2024*. [Link](https://www.nature.com/articles/s41524-023-01020-9)
+* **Ziqi Guo**, Zherui Han, Dudong Feng, Guang Lin, and Xiulin Ruan. Sampling-accelerated first-principles prediction of phonon scattering rates for converged thermal conductivity and radiative properties (2023). *npj Computational Materials, Feb, 2024*. [Link](https://www.nature.com/articles/s41524-024-01215-8)
 
-* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-024-01215-8)
+* **Ziqi Guo**, Prabudhya Roy Chowdhury, Zherui Han, Yixuan Sun, Dudong Feng, Guang Lin, and Xiulin Ruan. Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity. *npj Computational Materials, Jun, 2023*. [Link](https://www.nature.com/articles/s41524-023-01020-9)
 
 * Song He, Zhengyuan Ma, Weizhong Deng, ZiKang Zhang, **Ziqi Guo**, Wei Liu, Zhichun Liu. Experimental investigation on the start-up performance of a novel flat loop heat pipe with dual evaporators. *Energy Reports, Nov. 2022*. [Link](https://www.sciencedirect.com/science/article/pii/S2352484722010940)
 
