@@ -49,6 +49,6 @@ Publications
 Contact Info
 ======
 
-Office: 1095.2, Flex lab, 205 Gates Rd, Purdue University, West Lafayette, IN 47906
+Office: Flex lab, 205 Gates Rd, Purdue University, West Lafayette, IN 47906
 
 Email: gziqi[AT]purdue[dot]edu
