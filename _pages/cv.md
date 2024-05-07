@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf). 
+<!-- Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf).  -->
 
 <!-- 
 Education
