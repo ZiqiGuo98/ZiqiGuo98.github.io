@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "News"
+permalink: /News/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign ordered_News = site.News | sort: 'order' | reverse %}
+
+{% for post in ordered_News %}
+  {% include archive-single.html %}
+{% endfor %}

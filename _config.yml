@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  miscs:
+  News:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # miscs
+  # News
   - scope:
       path: ""
-      type: miscs
+      type: News
     values:
       layout: single
       author_profile: true
