@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziqi Guo Homepage"
 title_separator          : "-"
 name                     : &name "Ziqi Guo"
-description              : &description "Ph.D. student in Mechanical Engineering at Purdue University"
+description              : &description "Ph.D. candidate in Mechanical Engineering at Purdue University"
 url                      : https://ZiqiGuo98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZiqiGuo98/ZiqiGuo98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziqi Guo"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in Mechanical Engineering at Purdue University"
+  bio              : "Ph.D. candidate in Mechanical Engineering at Purdue University"
   location         : "West Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
