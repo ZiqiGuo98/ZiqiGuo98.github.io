@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Ziqi Guo, a Ph.D. candidate in Mechanical Engineering at Purdue university, co-advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/) and Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
 
-Prior to Purdue, I received my Bachelor’s degree in Mechanical Engineering from Huazhong University of Science & Technology in 2021. 
+Prior to Purdue, I received my Bachelor’s degree with honor in Mechanical Engineeringfrom Huazhong University of Science & Technology in 2021. 
 
 
 My research interest is to combine Scientific Computing & Simulation and Machine Learning to accelerate scientific discovery. I am currently focused on solving multiscale energy transport & saving problems to get new physical insights. 
