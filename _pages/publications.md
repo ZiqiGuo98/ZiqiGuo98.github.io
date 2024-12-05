@@ -11,9 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+Published work:
+
+(* These authors have equal contributions.)
+
+
+* **Ziqi Guo**, Peter Sokalski, Zherui Han, Yanhua Cheng, Li Shi, Takashi Taniguchi, Kenji Watanabe, and Xiulin Ruan. First-principles prediction of Raman and infrared linewidths of hexagonal boron nitride. *Applied Physics Letters, Dec, 2024*. [Link](https://pubs.aip.org/aip/apl/article/125/23/231106/3323601/First-principles-prediction-of-zone-center-optical)
+
 * Abdulaziz Alkandari, Zherui Han, **Ziqi Guo**, Thomas Beechem, and Xiulin Ruan. Anisotropic Anharmonicity Dictates the Thermal Conductivity of Gallium Oxide ($\beta-Ga_2O_3 $). *arXiv:2410.11106*. [Link](https://arxiv.org/abs/2410.11106)
 
-* **Ziqi Guo**, Peter Sokalski, Zherui Han, Yanhua Cheng, Li Shi, Takashi Taniguchi, Kenji Watanabe, and Xiulin Ruan. First-principles prediction of Raman and infrared linewidths of hexagonal boron nitride. *In review*. []()
 
 * Daniel Carne, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiulin Ruan. FOS: A fully integrated open-source program for Fast Optical Spectrum calculations for nanoparticle media. *Computer Physics Communications, Oct. 2024*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010465524003163)
 
