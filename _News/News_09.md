@@ -6,6 +6,8 @@ excerpt: "Happy to give two oral presentations and receive two Outstanding Prese
 
 - Radiation Across Scales.  
 
+<br/><img src='/images/IMECE.jpg' width='400'>
+
 "
 
 
