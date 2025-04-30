@@ -1,10 +1,10 @@
 ---
-title: "Received Magoon Research Excellence Award"
-excerpt: "Happy to reveive the Magoon Research Excellence Award! The award is for students with outstanding research performance; limited to four students annually.
+title: "Guest speaker at Purdue SYS 350 course"
+excerpt: "Honored to be invited as a guest speaker for SYS 350: Systems Methods this Spring at Purdue University. I gave a talk on \"Integrating AI, High-Performance Computing (HPC), and Multiscale Physics for Solving Energy Transport Problems.\". Thanks to the course instructors and students for the engaging discussion!
 
-Media posts: [Linkedin](https://www.linkedin.com/posts/guo-ziqi_after-taking-home-the-graduate-student-gold-activity-7318404475394670592-2K3Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgIJvgBiX-kKR9eXOScyMxNq5y7Jm4Z58g)
 
-<br/><img src='/images/Magoon.jpg' width='400'>
+
+<br/><img src='/images/SYS_course.jpg' width='400'>
 
 "
 collection: News
