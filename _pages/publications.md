@@ -15,6 +15,13 @@ Published work:
 
 (* These authors have equal contributions.)
 
+* **Ziqi Guo**, Ioanna Katsamba, Daniel Carne, Dudong Feng, Kellan Moss, Emily Barber, Ziqi Fang, Andrea Felicelli, and Xiulin Ruan. "Electronic and phononic characteristics of high-performance radiative cooling pigments h-BN: A comparative study to BaSO4." Materials Today Physics (2025): 101721. [Link](https://www.sciencedirect.com/science/article/abs/pii/S254252932500077X)
+
+* Khot, Krutarth, Boyuan Xiao, Zherui Han, **Ziqi Guo**, Zixin Xiong, and Xiulin Ruan. "Phonon local non-equilibrium at Al/Si interface from machine learning molecular dynamics." Journal of Applied Physics 137, no. 11 (2025). [Link](https://pubs.aip.org/aip/jap/article/137/11/115301/3339941)
+
+* Alkandari, Abdulaziz, Zherui Han, **Ziqi Guo**, Thomas E. Beechem, and Xiulin Ruan. "Anisotropic anharmonicity dictates the thermal conductivity of β-Ga 2 O 3." Physical Review B 111, no. 9 (2025): 094308. [Link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.094308)
+
+* Carne, Daniel, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiaojie Liu, and Xiulin Ruan. "FOS: A fully integrated open-source program for Fast Optical Spectrum calculations of nanoparticle media." Computer Physics Communications 307 (2025): 109393. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010465524003163)
 
 * **Ziqi Guo**, Peter Sokalski, Zherui Han, Yanhua Cheng, Li Shi, Takashi Taniguchi, Kenji Watanabe, and Xiulin Ruan. First-principles prediction of Raman and infrared linewidths of hexagonal boron nitride. *Applied Physics Letters, Dec, 2024*. [Link](https://pubs.aip.org/aip/apl/article/125/23/231106/3323601/First-principles-prediction-of-zone-center-optical)
 
