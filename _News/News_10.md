@@ -4,7 +4,7 @@ excerpt: "Honored to be invited as a guest speaker for SYS 350: Systems Methods 
 
 
 
-<br/><img src='/images/SYS_course.jpg' width='400'>
+<br/><img src='/images/SYS_course.JPG' width='400'>
 
 "
 collection: News
