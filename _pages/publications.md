@@ -39,9 +39,9 @@ Published work:
 
 * Sijie Li\*, **Ziqi Guo\***, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*. [Link](https://www.nature.com/articles/s41598-021-94742-z), [Paper](https://ZiqiGuo98.github.io/files/2021TextMining.pdf)
 
-* Sorting System Based on RFID Positioning Technology. 2019SR1151524. *Software Copyright filed Nov. 2019.* 
+<!-- * Sorting System Based on RFID Positioning Technology. 2019SR1151524. *Software Copyright filed Nov. 2019.* 
 
-* Grab-type flexible sorting method based on RFID spatial positioning technology. CN 201910875139.3. *Patent filed Sep. 2019.* 
+* Grab-type flexible sorting method based on RFID spatial positioning technology. CN 201910875139.3. *Patent filed Sep. 2019.*  -->
 
 
 <!-- {% for post in site.publications reversed %}
