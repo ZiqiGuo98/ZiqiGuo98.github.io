@@ -15,6 +15,12 @@ Published work:
 
 (* These authors have equal contributions.)
 
+* **Ziqi Guo**, Daniel Carne, Krutarth Khot, Dudong Feng, Guang Lin, and Xiulin Ruan. "A Review of Artificial Intelligence-Driven Approaches for Nanoscale Heat Conduction and Radiation." Journal of Computing and Information Science in Engineering 25, no. 12 (2025): 120805. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/25/12/120805/1225551/A-Review-of-Artificial-Intelligence-Driven?redirectedFrom=PDF), [Paper](https://ZiqiGuo98.github.io/files/2025AIReview.pdf)
+
+* **Ziqi Guo**, Xiulin Ruan, and Guang Lin. "FourPhonon_GPU: A GPU-accelerated framework for calculating phonon scattering rates and thermal conductivity." arXiv preprint arXiv:2510.00518 (2025). [Link](https://arxiv.org/abs/2510.00518), [Paper](https://ZiqiGuo98.github.io/files/2025FourPhononGPU.pdf)
+
+* Carne, Daniel, **Ziqi Guo**, and Xiulin Ruan. "Overcoming the curse of dimensionality: Enabling multi-layer photon transport with recurrent neural network." arXiv preprint arXiv:2509.22890 (2025). [Link](https://arxiv.org/abs/2509.22890), [Paper](https://ZiqiGuo98.github.io/files/2025RNN.pdf)
+
 * **Ziqi Guo**, Ioanna Katsamba, Daniel Carne, Dudong Feng, Kellan Moss, Emily Barber, Ziqi Fang, Andrea Felicelli, and Xiulin Ruan. "Electronic and phononic characteristics of high-performance radiative cooling pigments h-BN: A comparative study to BaSO4." Materials Today Physics (2025): 101721. [Link](https://www.sciencedirect.com/science/article/abs/pii/S254252932500077X), [Paper](https://ZiqiGuo98.github.io/files/2025hBN-paint-sim.pdf)
 
 * Krutarth Khot, Boyuan Xiao, Zherui Han, **Ziqi Guo**, Zixin Xiong, and Xiulin Ruan. "Phonon local non-equilibrium at Al/Si interface from machine learning molecular dynamics." Journal of Applied Physics 137, no. 11 (2025). [Link](https://pubs.aip.org/aip/jap/article/137/11/115301/3339941), [Paper](https://ZiqiGuo98.github.io/files/2025Krutarth-interface.pdf)

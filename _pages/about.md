@@ -7,31 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziqi Guo, a Ph.D. candidate in Mechanical Engineering at Purdue university, co-advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/) and Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
+Hi, I’m Dr. Ziqi Guo, a Research Scientist specializing in Scientific Machine Learning (SciML) and High-Performance Computing. My passion lies in accelerating scientific discovery by bridging the gap between rigorous engineering simulations and data-driven intelligence to solve critical challenges in energy, thermal management, and sustainability.
 
-<!-- Prior to Purdue, I received my Bachelor’s degree with honor in Mechanical Engineering from Huazhong University of Science & Technology in 2021.  -->
+I obtained my Ph.D. degree in Mechanical Engineering at Purdue university, co-advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/) and Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
 
+I bring cross-functional collaboration skills and deep expertise in AI4Science and Scientific Computing, leveraging deep learning, predictive modeling, and large-scale simulations to solve complex engineering problems. My work integrates advanced deep learning architectures with high-performance computing (GPU acceleration) to bypass traditional bottlenecks, resulting in novel solutions for energy efficiency, battery modeling, and thermal management.
 
-My research interest is to combine Scientific Computing & Simulation and Machine Learning to accelerate scientific discovery. I am currently focused on solving multiscale energy transport & saving problems to get new physical insights. 
+I have led initiatives to develop physics-informed machine learning (PIML) models that predict and optimize material properties by bridging the gap between quantum-mechanical calculations and macro-scale simulations. These efforts have directly advanced the capability to perform inverse design and optimization for battery, thermal, fluid, and optical systems.
 
-I have extensive knowledge of machine learning, numerical methods, optimization, inverse design, data analysis, and various physics simulation methods including first-principles and molecular dynamics simulations, battery simulations, thermal, fluid and optical design and modeling.
+I’ve also developed rigorous numerical solvers and two widely adopted open-source software packages, providing critical tools for the advancement of next-generation energy storage systems.
 
+Key strengths include:
 
-<!-- My research interest lies at the intersection of physics simulation, energy transport and machine learning. I am deeply interested in AI for science study by designing powerful data-driven models to accelerate physical simulations and explore inverse design solutions. By applying AI techniques to a diverse range of scientific domains ranging from thermal and nanophotonic simulations to atomic-scale modeling, I aim to unlock new insights and accelerate scientific discovery. -->
+- AI-Driven Scientific Discovery: Expertise in utilizing Generative AI and Machine Learning to accelerate material discovery and achieve inverse design.
+- High-Performance Computing: Advanced proficiency in parallel computing (MPI/OpenMP) and GPU acceleration (CUDA/OpenACC), reducing simulation times by 100x-10000x.
+- Multiphysics Simulation: Proven ability to model thermal, fluid, optical, and battery systems using advanced numerical methods (MD, DFT, FEA).
+- Domain Expertise in Energy Systems: Deep understanding of transport mechanisms, including phonon scattering and radiative cooling, applied to real-world engineering challenges.
+- Research & Software Engineering: Demonstrated success in defining technical strategy, developing scalable open-source tools, and executing end-to-end research pipelines.
 
-
- <!-- By combining AI with various physical simulations like finite element, Monte Carlo, and first-principles methods, I aim to unlock new insights and accelerate scientific discovery. -->
-
-
-<!-- I am currently using multiscale, multiphysics simulation and AI approaches to investigate the thermal and optical properties of materials, which is useful in many applications including thermal management and radiative cooling. -->
-
-<!-- Here is my [Curriculum Vitae](https://ZiqiGuo98.github.io/files/ZiqiGuo_CV.pdf).  -->
-
-
-
-Contact Info
-======
-
-Office: Flex lab, 205 Gates Rd, Purdue University, West Lafayette, IN 47906
-
-Email: gziqi[AT]purdue[dot]edu
