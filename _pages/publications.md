@@ -15,9 +15,13 @@ Published work:
 
 (* These authors have equal contributions.)
 
-* **Ziqi Guo**, Daniel Carne, Krutarth Khot, Dudong Feng, Guang Lin, and Xiulin Ruan. "A Review of Artificial Intelligence-Driven Approaches for Nanoscale Heat Conduction and Radiation." Journal of Computing and Information Science in Engineering 25, no. 12 (2025): 120805. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/25/12/120805/1225551/A-Review-of-Artificial-Intelligence-Driven?redirectedFrom=PDF), [Paper](https://ZiqiGuo98.github.io/files/2025AIReview.pdf)
+* Ziqi Fang\*, Yun Zhang\*, Emily Barber, **Ziqi Guo**, Won-June Lee, Tian Li, and Xiulin Ruan. "Biodegradable Paints for Daytime Radiative Cooling." Nano Letters 26 (2026): 12612-12619. [Link](https://doi.org/10.1021/acs.nanolett.6c01376), [Paper](https://ZiqiGuo98.github.io/files/2026biodegradablepaint.pdf)
 
-* **Ziqi Guo**, Xiulin Ruan, and Guang Lin. "FourPhonon_GPU: A GPU-accelerated framework for calculating phonon scattering rates and thermal conductivity." arXiv preprint arXiv:2510.00518 (2025). [Link](https://arxiv.org/abs/2510.00518), [Paper](https://ZiqiGuo98.github.io/files/2025FourPhononGPU.pdf)
+* **Ziqi Guo**, Dudong Feng, Daniel Carne, Guang Lin, and Xiulin Ruan. "Machine Learning Inverse Design Reveals a Double Narrow-Band Absorption Approach for Effective Colored Radiative Cooling Paints." Nano Letters 26 (2026): 8359-8367. [Link](https://doi.org/10.1021/acs.nanolett.6c01941), [Paper](https://ZiqiGuo98.github.io/files/2026ColorPaint.pdf)
+
+* **Ziqi Guo**, David McLoughlin, Xiulin Ruan, and Guang Lin. "FourPhonon_GPU, a CPU-GPU heterogeneous computing scheme for phonon scattering and thermal conductivity calculations." Cell Reports Physical Science 7 (2026): 103491. [Link](https://doi.org/10.1016/j.xcrp.2026.103491), [Paper](https://ZiqiGuo98.github.io/files/2026FourPhononGPU.pdf)
+
+* **Ziqi Guo**, Daniel Carne, Krutarth Khot, Dudong Feng, Guang Lin, and Xiulin Ruan. "A Review of Artificial Intelligence-Driven Approaches for Nanoscale Heat Conduction and Radiation." Journal of Computing and Information Science in Engineering 25, no. 12 (2025): 120805. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/25/12/120805/1225551/A-Review-of-Artificial-Intelligence-Driven?redirectedFrom=PDF), [Paper](https://ZiqiGuo98.github.io/files/2025AIReview.pdf)
 
 * Carne, Daniel, **Ziqi Guo**, and Xiulin Ruan. "Overcoming the curse of dimensionality: Enabling multi-layer photon transport with recurrent neural network." arXiv preprint arXiv:2509.22890 (2025). [Link](https://arxiv.org/abs/2509.22890), [Paper](https://ZiqiGuo98.github.io/files/2025RNN.pdf)
 
@@ -28,6 +32,8 @@ Published work:
 * Alkandari, Abdulaziz, Zherui Han, **Ziqi Guo**, Thomas E. Beechem, and Xiulin Ruan. "Anisotropic anharmonicity dictates the thermal conductivity of β-Ga2O3." Physical Review B 111, no. 9 (2025): 094308. [Link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.094308), [Paper](https://ZiqiGuo98.github.io/files/2025Ga2O3.pdf)
 
 * **Ziqi Guo**, Peter Sokalski, Zherui Han, Yanhua Cheng, Li Shi, Takashi Taniguchi, Kenji Watanabe, and Xiulin Ruan. First-principles prediction of Raman and infrared linewidths of hexagonal boron nitride. *Applied Physics Letters, Dec, 2024*. [Link](https://pubs.aip.org/aip/apl/article/125/23/231106/3323601/First-principles-prediction-of-zone-center-optical), [Paper](https://ZiqiGuo98.github.io/files/2024hBN-optics.pdf)
+
+* Gavin Ruan, **Ziqi Guo**, and Guang Lin. "Where to Build Food Banks and Pantries: A Two-Level Machine Learning Approach." arXiv preprint arXiv:2410.15420 (2024). [Link](https://arxiv.org/abs/2410.15420), [Paper](https://ZiqiGuo98.github.io/files/2024FoodBank.pdf)
 
 * Daniel Carne, Joseph Peoples, **Ziqi Guo**, Dudong Feng, Zherui Han, Xiulin Ruan. FOS: A fully integrated open-source program for Fast Optical Spectrum calculations for nanoparticle media. *Computer Physics Communications, Oct. 2024*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010465524003163), [Paper](https://ZiqiGuo98.github.io/files/2025FOS.pdf)
 
