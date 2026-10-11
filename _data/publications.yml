@@ -27,6 +27,7 @@
 - citation: '**Ziqi Guo**, Ioanna Katsamba, Daniel Carne, Dudong Feng, Kellan Moss, Emily Barber, Ziqi Fang, Andrea Felicelli, and Xiulin Ruan. "Electronic and phononic characteristics of high-performance radiative cooling pigments h-BN: A comparative study to BaSO4." Materials Today Physics (2025): 101721.'
   link: 'https://www.sciencedirect.com/science/article/abs/pii/S254252932500077X'
   pdf: 'https://ZiqiGuo98.github.io/files/2025hBN-paint-sim.pdf'
+  selected: true
 
 - citation: 'Krutarth Khot, Boyuan Xiao, Zherui Han, **Ziqi Guo**, Zixin Xiong, and Xiulin Ruan. "Phonon local non-equilibrium at Al/Si interface from machine learning molecular dynamics." Journal of Applied Physics 137, no. 11 (2025).'
   link: 'https://pubs.aip.org/aip/jap/article/137/11/115301/3339941'
@@ -39,6 +40,7 @@
 - citation: '**Ziqi Guo**, Peter Sokalski, Zherui Han, Yanhua Cheng, Li Shi, Takashi Taniguchi, Kenji Watanabe, and Xiulin Ruan. First-principles prediction of Raman and infrared linewidths of hexagonal boron nitride. *Applied Physics Letters, Dec, 2024*.'
   link: 'https://pubs.aip.org/aip/apl/article/125/23/231106/3323601/First-principles-prediction-of-zone-center-optical'
   pdf: 'https://ZiqiGuo98.github.io/files/2024hBN-optics.pdf'
+  selected: true
 
 - citation: 'Gavin Ruan, **Ziqi Guo**, and Guang Lin. "Where to Build Food Banks and Pantries: A Two-Level Machine Learning Approach." arXiv preprint arXiv:2410.15420 (2024).'
   link: 'https://arxiv.org/abs/2410.15420'
@@ -51,6 +53,7 @@
 - citation: '**Ziqi Guo**, Zherui Han, Abdulaziz Alkandari, Krutarth Khot and Xiulin Ruan. First-principles prediction of thermal conductivity of bulk hexagonal boron nitride. *Applied Physics Letters, Apr, 2024*.'
   link: 'https://pubs.aip.org/aip/apl/article/124/16/163906/3283088/First-principles-prediction-of-thermal'
   pdf: 'https://ZiqiGuo98.github.io/files/2024hBN-k.pdf'
+  selected: true
 
 - citation: 'Fei Qin, Yuxuan Zhang, **Ziqi Guo**, Taejoon Park, Chung Soo Kim, Jeongmin Park, Xingyu Fu, Kwangsoo No, Kejie Zhao, Han Wook Song, Xiulin Ruan, and Sunghwan Lee. High on/off ratio SiO 2-based memristors for neuromorphic computing: understanding the switching mechanisms through theoretical and electrochemical aspects. *Materials Advances, Mar, 2024*.'
   link: 'https://pubs.rsc.org/en/content/articlehtml/2024/ma/d3ma01142a'
@@ -77,3 +80,4 @@
 - citation: 'Sijie Li\*, **Ziqi Guo\***, Jacob B Ioffe, Yunfei Hu, Yi Zhen, Xin Zhou. Autism\_genepheno: Text mining of gene-phenotype associations reveals new phenotypic profiles of autism-associated genes. *Scientific Reports, Jul. 2021*.'
   link: 'https://www.nature.com/articles/s41598-021-94742-z'
   pdf: 'https://ZiqiGuo98.github.io/files/2021TextMining.pdf'
+  selected: true
