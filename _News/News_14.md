@@ -1,15 +1,11 @@
 ---
 title: "2025 Dimitris N. Chorafas Foundation Award"
-excerpt: "Honored to be a recipient of the 2025 Dimitris N. Chorafas Foundation Award for my research in Physics and AI! This is a highly selective global recognition, given to only ~20 researchers worldwide annually.
-
-
-Media posts: [Linkedin1](https://www.linkedin.com/posts/purdueme_physics-ai-researchaward-activity-7399492153309057024-vkHX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgIJvgBiX-kKR9eXOScyMxNq5y7Jm4Z58g)
-
-<br/><img src='/images/Chorafas.jpeg' width='400'>
-
-"
-
-
+excerpt: "One of about 20 doctoral recipients worldwide for research in physics and AI."
 collection: News
 ---
 
+I am honored to be a recipient of the **2025 Dimitris N. Chorafas Foundation Award** for my research in physics and AI. It is a highly selective global recognition given to only about 20 researchers worldwide each year.
+
+Media post: [LinkedIn](https://www.linkedin.com/posts/purdueme_physics-ai-researchaward-activity-7399492153309057024-vkHX)
+
+<img src='/images/Chorafas.jpeg' width='400'>
