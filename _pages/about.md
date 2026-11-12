@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Hi, I'm Dr. Ziqi Guo, a Machine Learning Researcher at **Apple** working on battery modeling and simulation. My work sits at the intersection of **AI for Science, multiscale physics modeling, and high-performance computing**: I build physics-informed machine learning models and LLM-agent workflows that turn slow, expensive simulations and manual engineering processes into fast, reliable tools for energy, thermal management, and sustainability.
 
 I received my Ph.D. in Mechanical Engineering from Purdue University (Aug. 2025, GPA 3.97/4.00), co-advised by Prof. [Xiulin Ruan](https://engineering.purdue.edu/NANOENERGY/) and Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). Before that, I earned my B.E. with Honors in Energy & Power Engineering from Huazhong University of Science and Technology (rank 1/221, GPA 3.99/4.00).
@@ -49,3 +51,20 @@ In total I have published 20+ papers (see [Publications](/publications/) or my [
 - National Scholarship (3×) and Exemplary Merit Student Award, HUST
 
 More in [News](/News/).
+
+## Recent news
+
+{% assign recent_news = site.News | reverse %}
+{% for post in recent_news limit:3 %}
+* [{{ post.title }}]({{ base_path }}{{ post.url }})
+{% endfor %}
+
+[See all news]({{ base_path }}/News/)
+
+## Selected publications
+
+{% for pub in site.data.publications %}{% if pub.selected %}
+* {{ pub.citation }}{% if pub.link %} [Link]({{ pub.link }}){% endif %}{% if pub.pdf %}, [Paper]({{ pub.pdf }}){% endif %}
+{% endif %}{% endfor %}
+
+[Full publication list]({{ base_path }}/publications/)
