@@ -19,6 +19,9 @@ main:
   # - title: "CV"
   #   url: /cv/
     
+  - title: "Awards & Talks"
+    url: /awards/
+
   - title: "News"
     url: /News/
 
