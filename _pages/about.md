@@ -27,7 +27,7 @@ I received my Ph.D. in Mechanical Engineering from Purdue University (2025), co-
 
 ### Agentic AI
 
-- I build LLM agents that fully automate performance prediction for new battery cell designs, cutting a one-week manual workflow to one day.
+- I build LLM agents that fully automate performance prediction for new product delivery, cutting a one-week manual workflow to one day.
 - I build agent memory systems for team applications: hybrid retrieval (RAG), knowledge graphs, and persistent shared memory that let agents recall, update, and reuse team knowledge across tasks.
 
 In total I have published 20+ papers (see [Publications](/publications/) or my [Google Scholar](https://scholar.google.com/citations?user=CJBGkTwAAAAJ&hl=en) profile), with 560+ citations and an h-index of 12. My work has been recognized with several [awards and honors](/awards/).

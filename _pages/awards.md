@@ -68,6 +68,3 @@ author_profile: true
 
 - *Accelerated Prediction of Thermal and Mid-IR Optical Properties Through Maximum Likelihood Approximation of Phonon Scattering Rates.* Oral, ASME Heat Transfer Summer Conference (SHTC), Jul. 2023.
 - *Fast and Accurate Machine Learning Prediction of Phonon Scattering Rates and Lattice Thermal Conductivity.* Oral, ASME Heat Transfer Summer Conference (SHTC), Jul. 2023.
-
-<br/>
-<img src='/images/Chorafas.jpeg' height='180'> <img src='/images/MRSGSA.jpg' height='180'> <img src='/images/Magoon.jpg' height='180'> <img src='/images/IMECE.jpg' height='180'>
